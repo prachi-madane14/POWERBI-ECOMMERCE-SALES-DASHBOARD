@@ -1,5 +1,6 @@
 📊 E-Commerce Sales Dashboard 
 
+
 📌 Overview
 
 This project demonstrates the use of Power BI to analyze and visualize E-Commerce Sales Data.
@@ -31,6 +32,8 @@ Used slicers for filtering by Quarter and State.
 
 Designed visuals for state-wise sales, payment mode distribution, customer analysis, category-wise sales, and monthly profit trends.
 
+
+
 📚 Project Learnings
 
 Built an interactive dashboard to track and analyze sales performance.
@@ -47,9 +50,12 @@ Used multiple visualizations including:
 
 🔹Slicers
 
+
+
 📸 Dashboard Preview
 
 ![Ecommerce Sales Dashboard](./screenshot/dashboard_preview.png)
+
 
 
 ✨ Insights
@@ -59,6 +65,8 @@ COD is the most preferred payment mode (~43%).
 Clothing contributes the highest sales (~62%).
 
 Printers & Bookcases are top sub-categories by profit.
+
+
 
 📌 Tools & Technologies
 
@@ -70,12 +78,12 @@ Printers & Bookcases are top sub-categories by profit.
 
 🔹GitHub for project sharing
 
+
 🚀 How to Use
 
 Clone this repository:
 
 git clone  https://github.com/prachi-madane14/POWERBI-ECOMMERCE-SALES-DASHBOARD.git
-
 
 Download the .pbix file from the report/ folder.
 
